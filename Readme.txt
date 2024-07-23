@@ -1,0 +1,1 @@
+To run tests there should be a user with emailAccountId = 1 and not blogs under this user shall be created before the tests.
